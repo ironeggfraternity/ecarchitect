@@ -1,5 +1,5 @@
 = 电商架构手边书
-铁蛋兄弟会 <ec_architect@126com>
+铁蛋兄弟会 <ec_architect@126.com>
 v01, 2018-07
 
 
